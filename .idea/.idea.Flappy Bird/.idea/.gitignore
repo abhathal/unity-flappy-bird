@@ -2,10 +2,10 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
-/contentModel.xml
 /projectSettingsUpdater.xml
+/.idea.Flappy Bird.iml
 /modules.xml
-/.idea.Flarpy Blorb.iml
+/contentModel.xml
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
